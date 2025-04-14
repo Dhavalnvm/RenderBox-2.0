@@ -8,7 +8,7 @@ import numpy as np
 from bpy_extras.object_utils import world_to_camera_view
 
 # ---------- CONFIG ----------
-BLEND_DIR = r"C:/Users/ADMIN/PycharmProjects/dataset generator/blender"
+BLEND_DIR = "path/to/blend/files"
 OUTPUT_DIR = "path/to/output/dir" 
 CLASS_NAME = 'propeller'
 IMG_SIZE = 512
