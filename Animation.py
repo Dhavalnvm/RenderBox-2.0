@@ -9,7 +9,7 @@ from mathutils import Vector
 from bpy_extras.object_utils import world_to_camera_view
 
 # CONFIG
-BLEND_DIR = r"C:/Users/ADMIN/PycharmProjects/dataset generator/blender"
+BLEND_DIR = "path/to/blend/files"
 OUTPUT_DIR = r"C:/Users/ADMIN/PycharmProjects/dataset generator/output dir/data3"
 CLASS_NAME = 'propeller'
 CLASS_ID = 0
