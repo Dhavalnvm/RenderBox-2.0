@@ -9,7 +9,7 @@ from bpy_extras.object_utils import world_to_camera_view
 
 # ---------- CONFIG ----------
 BLEND_DIR = r"C:/Users/ADMIN/PycharmProjects/dataset generator/blender"
-OUTPUT_DIR = r"C:/Users/ADMIN/PycharmProjects/dataset generator/output dir/data3"
+OUTPUT_DIR = "path/to/output/dir" 
 CLASS_NAME = 'propeller'
 IMG_SIZE = 512
 NUM_IMAGES_PER_FILE = 40
